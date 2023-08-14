@@ -161,7 +161,7 @@
 #COMPARSION OPERATOR\
 #eg 1:
 
-#temperature = 35
+#git temperature = 35
 
 #if temperature != 30:
  #   print("Its a HOT DAY")
@@ -169,4 +169,7 @@
  #   print("its not a hot day")
 
 #eg 2
-#if temperature 
+#if temperature == 35:
+#print("its a good day")
+#else:
+#print("its not a good day")
